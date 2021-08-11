@@ -1396,7 +1396,7 @@ Repetitive actions have been replaced with action groups in these tests:
 
 <!--- ENGCOM-8501 MC-30270-->
 
-*  Administrators can now sort product reviews on the Product Reviews section of the product edit page as expected. [GitHub-26301](https://github.com/magento/magento2/issues/26301)
+*  Administrators can now sort product reviews on the Product Reviews section of the product edit page as expected. [GitHub-30270](https://github.com/magento/magento2/issues/30270)
 
 <!--- MC-41003  magento/magento2#32259-->
 
